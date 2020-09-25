@@ -6,5 +6,5 @@ This project have 4 screens
 2) Login screen
 3) Registration screen
 4) Home screen
-
+loginui/lib/Main.dart
 If you want to use this code to your project you must change the header import paths.
